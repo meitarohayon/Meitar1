@@ -23,4 +23,10 @@ img {
 	text-shadow:2px 2px 4px rgba(0, 0, 0, 0.3);
 	background-color:white;	
 }
+.center-list-style{
+	list-style-position:inside;
+	list-style-type:square;
+	text-align:center;
+	direction:left;
+}
 	
